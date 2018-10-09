@@ -1,0 +1,85 @@
+[	
+	{
+		"pregunta":"¿Tiene problemas cardiacos?",
+		"tipo":"radio2"
+	},
+	{
+		"pregunta":"¿Tiene o ha tenido presión alta alguna vez?",
+		"tipo":"radio1"
+	},
+	{
+		"pregunta":"¿Tiene diabetes?",
+		"tipo":"radio1"
+	},
+	{
+		"pregunta":"¿Ha tenido dolor en el pecho u opresión?",
+		"tipo":"radio1"
+	},
+	{
+		"pregunta":"¿Suele sentirse cansado o fatigado con facilidad?",
+		"tipo":"radio1"
+	},
+	{
+		"pregunta":"Ha tenido o tiene con el ejercicio",
+		"tipo":"opciones",
+		"valores":["Palpitaciones","Taquicardias","Náuseas","Desmayos"]
+	},
+	{
+		"pregunta":"¿Tiene otro factor de riesgo cardiovascular?",
+		"tipo":"opciones",
+		"valores":["Dislipidemia (Colesterol alto y/o trigliceridos altos)","Obesidad","Estrés","Tabaquismo","Sedentarismo"]
+	},
+	{
+		"pregunta":"¿Tiene asma?",
+		"tipo":"radio1"
+	},
+	{
+		"pregunta":"¿Tiene alguna alergia?",
+		"tipo":"radio2"
+	},
+	{
+		"pregunta":"¿Tiene algún problema de piel?",
+		"tipo":"radio2"
+	},
+	{
+		"pregunta":"¿Tiene alguna enfermedad neurológica?",
+		"tipo":"radio2"
+	},
+	{
+		"pregunta":"¿Ha tenido dolor de cabeza intenso?",
+		"tipo":"radio1"
+	},
+	{
+		"pregunta":"¿Ha tenido convulsiones?",
+		"tipo":"radio1"
+	},
+	{
+		"pregunta":"¿Tiene problemas articulares u óseos?",
+		"tipo":"radio2"
+	},
+	{
+		"pregunta":"¿Tiene o ha tenido traumas o lesiones previas en huesos, articulaciones o músculos?",
+		"tipo":"radio2"
+	},
+	{
+		"pregunta":"¿Sufre de ansiedad?",
+		"tipo":"radio1"
+	},
+	{
+		"pregunta":"¿Sufre de depresión?",
+		"tipo":"radio1"
+	},
+	{
+		"pregunta":"¿Existe algún otro problema o enfermedad no mencionada aquí que debiera confiarnos?",
+		"tipo":"radio2"
+	},
+	{
+		"pregunta":"Para perder o ganar peso, o mejorar el rendimiento deportivo ha tomado o toma:",
+		"tipo":"opciones",
+		"valores":["Medicamentos","Esteroides","Anabólicos","Suplementos"]
+	},
+	{
+		"pregunta":"¿Tiene alguna cirugía?",
+		"tipo":"radio2"
+	}
+]

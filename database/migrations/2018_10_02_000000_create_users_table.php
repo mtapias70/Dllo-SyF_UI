@@ -19,8 +19,15 @@ class CreateUsersTable extends Migration
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
+            $table->json('perfil');
+            $table->string('Movil',20);
+            $table->dateTime('Vencimiento')->nullable();
+            $table->enum('Estado',['Activo','Inactivo','Pausado']);
+            $table->unsignedInteger('Coordinador');
             $table->rememberToken();
             $table->timestamps();
+            // Clave Primaria
+            //$table->primary('id');
         });
     }
 

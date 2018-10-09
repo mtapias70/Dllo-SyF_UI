@@ -1,0 +1,11 @@
+[
+	{"pregunta":"¿Algún familiar ha muerto en forma prematura (menor a 50 años)? (muerte súbita, infarto...)"},
+	{"pregunta":"¿Algún miembro de su familia padece de arritmias?"},
+	{"pregunta":"¿Algún miembro de su familia padece de síndrome de QT largo?"},
+	{"pregunta":"¿Algún miembro de su familia padece de hipertrofia cardíaca?"},
+	{"pregunta":"¿Algún miembro de su familia padece de síndrome de Marfan?"},
+	{"pregunta":"¿Algún miembro de su familia sufrió un accidente cerebrovascular (ACV)?"},
+	{"pregunta":"¿Algún miembro de tu familia sufre de presión arterial alta (HTA)?"},
+	{"pregunta":"¿Algún miembro de tu familia sufre de Diabetes?"},
+	{"pregunta":"¿Algún miembro de su familia presenta Dislipidemia (Colesterol y/o Triglicéridos altos)?"}
+]

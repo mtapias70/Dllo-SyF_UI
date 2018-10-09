@@ -1,0 +1,43 @@
+[	
+	{
+		"pregunta":"¿Cuántos días realiza actividad física o deportes?",
+		"opciones":["No realizo ninguna actividad","Entre 1 a 2 veces por semana","Entre 2 a 3 veces por semana",	"Entre 3 a 4 veces por semana",	"Entre 4 a 5 veces por semana",	"5 o más veces por semana"]
+	},
+	{
+		"pregunta":"¿Cuánto tiempo emplea cada vez que realiza actividad física?",
+		"opciones": ["Nada, no realizo actividad física", "Menos de 30 minutos", "Entre 30 a 60 minutos", "Entre 60 a 120 minutos (1-2 horas)","Más de 120 minutos (más de 2 horas)"]
+	},
+	{
+		"pregunta":"¿Cuál es la intensidad de la actividad física?",
+		"opciones":["Ninguna - pues no realizo ninguna actividad","Baja - puede hablar con naturalidad","Media - puede hablar con un poco de esfuerzo","Alta - no le es posible hablar"]
+
+	},
+	{
+		"pregunta":"¿Cuántas horas duerme aproximadamente (no cuentan siestas)?",
+		"opciones": ["Menos de 5 horas","5 horas", "6 horas", "7 horas", "8 horas", "Más de 8 horas"]
+	},
+	{
+		"pregunta":"¿Logra conciliar fácilmente el sueño?",
+		"opciones": ["Si","No"]
+	},
+	{
+		"pregunta":"¿Duerme continuamente durante toda la noche?",
+		"opciones": ["Si","No"]
+	},
+	{
+		"pregunta":"¿Fuma cigarrillos, tabaco o similares?",
+		"opciones": ["No fumo", "Ocasionalmente", "Fumo 1-5 cigarrillos al día", "Fumo 5-10 cigarrillos al día", "Fumo 10-20 cigarrillos al día", "Fumo mas de 20 cigarrillos al día"]
+	},
+	{
+		"pregunta":"¿Si consume cigarrillo, hace cuánto lo hace?",
+		"opciones": ["No fumo", "Hace menos de 1 año", "Entre 1 a 5 años", "Entre 5 a 10 años", "Entre 10 a 15 años", "Más de 15 años"]
+	},
+	{
+		"pregunta":"¿Consume licor?",
+		"opciones": ["No consumo licor", "Ocasionalmente", "Sólo social", "Una vez por semana sin embriaguez", "Una vez por semana hasta embriagarme", "Frecuentemente en la semana"]
+	},
+	{
+		"pregunta": "¿Consume sustancias alucinógenas?",
+		"opciones": ["No consumo alucinógenos", "Consumo menos de una vez por mes", "Consumo una vez por semana", "Consumo varias veces por semana","Consumo todos los días"]
+	}
+]
